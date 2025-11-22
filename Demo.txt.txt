@@ -8,4 +8,15 @@ int j = 20;
 }
 
 here is a demo file
+public classs StatusReport{
+ 
+String status =false;
+if(status){
+return status;
 
+}
+
+
+
+
+}
